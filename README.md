@@ -1,6 +1,6 @@
 # No recoil Point Blank
 
-Esse macro foi feito utilizando o AHK para o jogo Point Blank.
+Esse macro foi feito utilizando o AHK para o jogo Point Blank (não necessariamente  o distribuído pela OnGame).
 
 Serve para retirar o recoil parcialmente ou totalmente.
 
