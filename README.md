@@ -1,6 +1,6 @@
 # No recoil Point Blank
 
-Esse macro foi feito utilizando o AHK para o jogo Point Blank.
+Esse macro foi feito utilizando a linguagem AHK para o jogo Point Blank.
 
 O código foi feito em um server de desenvolvimento hospedado na minha própria máquina. Não houve o descumprimento de quaisquer regras por parte da Garena, 4Game ou OnGame.
 
