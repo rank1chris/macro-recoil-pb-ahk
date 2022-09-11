@@ -10,6 +10,6 @@ O terceiro parâmetro da função dllCall serve para selecionar qual botão do m
 
 Sempre tente, pelo menos, compilar o código e transforma-lo em executável. Recomendo o compilador do AHK-H.
 
-Use com moderação, o abuso de macros e/ou qualquer outro programa, como exemplo Razer Synapse ou Logitech GHub é passivo de BAN GRADE X.
+Use com moderação, o abuso de macros utilizando programas de terceiros e/ou qualquer outro programa oficial distribuído por empresas que vendem mouse, como exemplo Razer Synapse ou Logitech GHub é passivo de BAN GRADE X.
 
 Não me responsabilizo caso você for banido por uso de quaisquer arquivos. Mais uma vez, use com moderação.
