@@ -2,6 +2,8 @@
 
 Esse macro foi feito utilizando o AHK para o jogo Point Blank (não necessariamente  o distribuído pela OnGame).
 
+Esse script foi feito em um server de desenvolvimento hospedado na minha própria máquina. Não houve o descumprimento de quaisquer regras por parte da Garena, 4Game ou OnGame.
+
 Serve para retirar o recoil parcialmente ou totalmente.
 
 Aqui utilizei a função dllCall() ao invés da função MouseClick ou Send para o script não bugar e não ficar com o problema de continuar atirando sem nem mesmo clicar no mouse.
