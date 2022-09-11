@@ -27,7 +27,7 @@ SendMode Input
 Loop
 {
 	if not GetKeyState("LButton", "P")
-	break
+		break
 	dllCall("mouse_event", uint, 2, int, x, int, y, uint, 0, int, 0)
 	sleep 130
 	dllCall("mouse_event", uint, 4, int, x, int, y, uint, 0, int, 0)
