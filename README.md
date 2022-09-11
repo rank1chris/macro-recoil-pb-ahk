@@ -4,4 +4,12 @@ Esse macro foi feito utilizando o AHK para o jogo Point Blank.
 
 Serve para retirar o recoil parcialmente ou totalmente.
 
+Aqui utilizei a função dllCall() ao invés da função MouseClick ou Send para o script não bugar e não ficar com o problema de continuar atirando sem nem mesmo clicar no mouse.
+
+O terceiro parâmetro da função dllCall serve para selecionar qual botão do mouse apertar, sendo 2 o de clicar no botão esquerdo e 4 o de soltá-lo.
+
+Sempre tente, pelo menos, compilar o código e transforma-lo em executável. Recomendo o compilador do AHK-H.
+
 Use com moderação, o abuso de macros e/ou qualquer outro programa, como exemplo Razer Synapse ou Logitech GHub é passivo de BAN GRADE X.
+
+Não me responsabilizo caso você for banido por uso de quaisquer arquivos. Mais uma vez, use com moderação.
